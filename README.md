@@ -26,9 +26,8 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 Sou um estudante de Análise e Desenvolvimento de Sistemas de <b>Goiânia</b> 」
     <br>
     <br>
   </samp>

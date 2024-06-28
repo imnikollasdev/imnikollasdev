@@ -30,6 +30,8 @@
  <img align="right" width="350" src="codeloop.gif" alt="Coding gif" />
   
  😔 &emsp; Nem é falta de café, ou tequila... É apenas o meu código que não compila <br/><br/>
+ ❤️ &emsp; Funciona na minha máquina <br/><br/>
+ 👌 &emsp; "Se está funcionando, é melhor não tentar entender para não parar de funcionar" <br/><br/>
 
 </p>
 
@@ -76,8 +78,8 @@
 </p>
 
 <a> 
-    <a href="https://github.com/NikollasDev"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=NikollasDev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/NikollasDev"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NikollasDev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/NikollasDev"><img alt="Nikollas Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=NikollasDev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/NikollasDev"><img alt="Nikollas Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NikollasDev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 

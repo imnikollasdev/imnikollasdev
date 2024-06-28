@@ -53,6 +53,7 @@
 <br/>
 
 ## Top Open Source -
+<!-- 
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=NikollasDev&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/NikollasDev/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=NikollasDev&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/NikollasDev/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=NikollasDev&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/NikollasDev/web-projects)
@@ -64,7 +65,7 @@
 <br/>
 <hr/>
 <br/>
-<!-- 
+
 <p align="center">
   <a href="https://github.com/NikollasDev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikollasDev&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
@@ -73,7 +74,7 @@
 
 <p align="center">
   <a href="https://github.com/NikollasDev">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikollasDev&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikollasDev&theme=radical" alt="Nikollas GitHub Contribution"/>
   </a>
 </p>
 

@@ -13,7 +13,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Sou um estudante de Análise e Desenvolvimento de Sistemas de <b>Goiânia</b> 」
+    「 Sou um estudante de <b>Análise e Desenvolvimento de Sistemas</b> 」
     <br>
     <br>
   </samp>

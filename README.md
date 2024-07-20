@@ -5,7 +5,7 @@
 </h1>
 
 ### About
-- 🛠 Studying (ADS) and;
+- 🛠 Studying (ADS);
 - 🚀 Working as a Freelancer for 5 years;
 
 ### Skills

@@ -10,7 +10,8 @@
 
 ### Skills
  - 🔮 Development languages: JavaScript and Lua; 
- - 💻 Web skills: HTML, CSS, JavaScript, React, Next.js;
+ - 💻 Web skills: HTML, CSS, JavaScript;
+ - 🤓 Learning: React, Next.js, Node.js;
 
 ### Experiences
   - 🧥 I have experience with applications back-end. I also have knowledge in developing resources (mods) for games and applications (discord).

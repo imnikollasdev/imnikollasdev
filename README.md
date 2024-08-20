@@ -14,4 +14,4 @@
  - 🤓 Learning: React, Next.js, Node.js;
 
 ### Experiences
-  - 🧥 I have experience with applications back-end. I also have knowledge in developing resources (mods) for games and applications (discord).
+  - 🧥 I have experience with back-end applications. I also have knowledge in developing features (mods) for games and applications (discord).

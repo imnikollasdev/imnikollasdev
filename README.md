@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-<h1> GAY</h1>
 
 ### About
 - 🛠 Studying (ADS);

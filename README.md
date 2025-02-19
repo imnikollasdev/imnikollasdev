@@ -4,15 +4,22 @@
   </a>
 </h1>
 
-
 ### About
-- 🛠 Studying (ADS);
-- 🚀 Working as a Freelancer for 5 years;
+- 🎓 Studying: Analysis and Systems Development (ADS);
+- 💼 Working: Freelancer with 5+ years of experience;
 
 ### Skills
- - 🔮 Development languages: JavaScript and Lua; 
- - 💻 Web skills: HTML, CSS, JavaScript;
- - 🤓 Learning: React, Next.js, Node.js;
+- 🧑‍💻 Web Development: HTML, CSS, JavaScript, TypeScript, React, Node.js;
+- 🗄️ Databases: SQL, NoSQL (MySQL, MongoDB);
+- 🎨 UI/UX Design: Figma, TailwindCSS;
+- ⚙️ Best Practices: Clean Code, SOLID, Design Patterns;
+- 🐋 Tools: Git, GitHub, Docker;
+- 🕹️ Scripting: Lua (Game Mods, Discord Bots);
 
 ### Experiences
-  - 🧥 I have experience with back-end applications. I also have knowledge in developing features (mods) for games and applications (discord).
+- 🔗 Back-end Development: Experience building and maintaining back-end applications;
+- 🎮 Game Modding: Development of features (mods) for games and Discord applications;
+- 🧑‍🎨 Front-end Development: Creating responsive and modern UIs for web applications.
+
+### Learning
+- 🚀 Constantly improving my knowledge in full-stack development, focusing on modern frameworks and best coding practices.

@@ -6,14 +6,14 @@
 
 ### About
 - 🎓 Studying: Analysis and Systems Development (ADS);
-- 💼 Working: Freelancer with 5+ years of experience;
+- 💼 Working: Freelancer;
 
 ### Skills
 - 🧑‍💻 Web Development: HTML, CSS, JavaScript, TypeScript, React, Node.js;
 - 🗄️ Databases: SQL, NoSQL (MySQL, MongoDB);
 - 🎨 UI/UX Design: Figma, TailwindCSS;
 - ⚙️ Best Practices: Clean Code, SOLID, Design Patterns;
-- 🐋 Tools: Git, GitHub, Docker;
+- 🐋 Tools: Git, GitHub;
 - 🕹️ Scripting: Lua (Game Mods, Discord Bots);
 
 ### Experiences
